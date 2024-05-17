@@ -6,4 +6,5 @@ public class CalculatorServiceImplTestConstants {
     public static final int NUM_3 = -100500;
     public static final int NUM_4 = 300;
     public static final int ZERO = 0;
+    public static final int NULL = Integer.parseInt(null);
 }
